@@ -1,4 +1,4 @@
-package problems.Easy.TwoSum;
+package Easy.TwoSum;
 
 public class Solution {
     // teste

@@ -1,0 +1,10 @@
+# Ignore tudo
+/*
+
+# Exceto estas pastas:
+!problems/
+!problems/
+!problems/**
+
+# Não ignore o próprio gitignore
+!.gitignore
