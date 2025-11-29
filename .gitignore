@@ -5,6 +5,9 @@
 !problems/
 !problems/
 !problems/**
+!README-PT.MD
+!README.md
+!LICENSE
 
 # Não ignore o próprio gitignore
 !.gitignore
