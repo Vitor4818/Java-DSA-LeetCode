@@ -1,3 +1,5 @@
+##### This is the project README *in portuguese*. If you prefer to read the english version, [click here](README.md).
+
 # Java DSA – Prática de LeetCode
 
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" width="500"/> </p> <p align="center"> <b>Repositório pessoal para praticar Estruturas de Dados e Algoritmos usando Java.</b><br> <b>Resolvendo problemas do LeetCode e aprimorando o raciocínio algorítmico todos os dias.</b> </p>
